@@ -1,2 +1,2 @@
 # testSaucedemo
-testSaucedemo for ATA
+testSaucedemo for ATA only
